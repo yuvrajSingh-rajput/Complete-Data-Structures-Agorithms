@@ -3,14 +3,13 @@
  ----------------------------------
 
 
-COURSE NAME		GRADE	CREDITS
-gg		          A	       4
-hh		          B	       4
-KK		          A	       3
-DD		          A	       1
-LL		          C	       3
-FF		          D	       1
-tt		          A	       1
-SS		          A	       4
+COURSE NAME		               GRADE	     CREDITS
+APPLIED MECHANICS			          A	       4
+ELECTRONICS ENGINEERING LAB		 B	       4
+ENGINEERING MATHEMATICS-I		   A	       3
+ENGINEERING GRAPHICS			       A	       1
+ENGINEERING PHYSICS			        C	       3
+BASIC ELECTRONICS ENGINEERING D	       1
+COMPUTER PROGRAMMING	         A	       1
+COMPUTER PROGRAMMING LAB	     A	       4
 S.G.P.I. = 8.7619	 C.G.P.I. = 8.7619
-
