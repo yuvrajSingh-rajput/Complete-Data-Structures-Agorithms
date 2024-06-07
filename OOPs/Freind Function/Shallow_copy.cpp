@@ -1,0 +1,1 @@
+//! By default all the normal code in oops are shallow copy 

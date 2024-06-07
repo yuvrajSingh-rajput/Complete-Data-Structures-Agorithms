@@ -1,0 +1,16 @@
+ ----------------------------------
+|       RESULT FOR SEMESTER 1     |
+ ----------------------------------
+
+
+COURSE NAME		GRADE	CREDITS
+gg		          A	       4
+hh		          B	       4
+KK		          A	       3
+DD		          A	       1
+LL		          C	       3
+FF		          D	       1
+tt		          A	       1
+SS		          A	       4
+S.G.P.I. = 8.7619	 C.G.P.I. = 8.7619
+

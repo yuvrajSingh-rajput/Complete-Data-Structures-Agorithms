@@ -1,0 +1,18 @@
+ ----------------------------------
+|       RESULT FOR SEMESTER 1     |
+ ----------------------------------
+
+
+COURSE NAME:	                GRADE	CREDITS
+APPLIED MECHANICS		          A	       4
+ELECTRONICS ENGINEERING LAB		  AB	   1
+ENGINEERING MATHEMATICS-I		  AB       4
+ENGINEERING GRAPHICS		      B        3
+ENGINEERING PHYSICS		          A        4
+BASIC ELECTRONICS ENGINEERING	  AB	   3
+COMPUTER PROGRAMMING		      AB   	   3
+COMPUTER PROGRAMMING LAB		  A	       1
+ENGINEERING PHYSICS LAB		      A        1
+
+S.G.P.I. = 9.29167	 C.G.P.I. = 9.29167
+

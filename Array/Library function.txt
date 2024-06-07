@@ -1,0 +1,7 @@
+1. To get the maximum of the array.
+
+#include<algorithm>
+int max = *max_element(arr.begin(),arr.end());
+
+
+2. 
