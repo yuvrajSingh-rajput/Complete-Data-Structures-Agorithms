@@ -11,7 +11,6 @@ Welcome to my repository! I am currently learning data structures and algorithms
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
