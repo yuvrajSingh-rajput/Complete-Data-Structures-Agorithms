@@ -1,3 +1,7 @@
+/*
+	A dynamic programming approach to get all pair shortest path from any node to any another node.
+*/
+
 class Solution {
   public:
 	void shortest_distance(vector<vector<int>>&matrix){
