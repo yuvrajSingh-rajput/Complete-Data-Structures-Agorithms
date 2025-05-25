@@ -28,25 +28,3 @@ bool detectCycle(int src, vector<int> adj[], int V, vector<bool>& vis){
     }
 
 
-signed main(int argc, char* argv[]){
-    ios_base::sync_with_stdio(false);
-    #ifndef YUVRAJ_SINGH_RAJPUT_DEBUG
-        cin.tie(nullptr);
-        auto _clock_start = chrono::high_resolution_clock::now();
-    #endif
-
-    #ifndef ONLINE_JUDGE
-    freopen("input.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
-    #endif
-
-    
-
-    #ifndef YUVRAJ_SINGH_RAJPUT_DEBUG
-        auto _clock_end = chrono::high_resolution_clock::now();
-        auto duration = chrono::duration_cast<chrono::milliseconds>(_clock_end-_clock_start).count();
-        cerr << "Execution time: " << duration << " ms." << endl;
-    #endif
-
-    return 0;
-}
